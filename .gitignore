@@ -1,0 +1,4 @@
+env
+/media
+*.mp4
+.DS_Store
